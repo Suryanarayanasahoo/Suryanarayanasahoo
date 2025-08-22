@@ -1,76 +1,79 @@
-# 👋 Hi, I'm Suryanarayana Sahoo  
+<h1 align="center">👋 Hi, I'm Suryanarayana Sahoo</h1>  
 
-💻 Full-Stack Developer passionate about creating scalable web applications and solving complex problems through code.  
+<h3 align="center">💻 Full-Stack Developer | 🚀 Java & React Enthusiast | 🌟 Lifelong Learner</h3>  
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suryanarayan-sahoo-26b78a265/)  
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-
----
-
-## 📌 About Me  
-
-- 🔭 Currently focused on **building robust applications** with scalable backend architectures using **Java (Spring Boot)** and **Node.js**.  
-- 🌟 What drives me: Transforming ideas into functional, user-friendly applications while constantly learning new technologies.  
-- 🚀 Looking for **Entry-level Software Developer opportunities** in **Web Development** and **Full Stack Development**.  
-- 📖 Currently learning **Node.js, Express.js, React js and TypeScript**, while exploring **AWS** for deployment.  
-- 🎯 Interests: Full-stack development, problem-solving, and working on real-world impactful projects.  
-- ⚡ Fun fact: I once spent an entire weekend debugging a single line of code... and it was worth it!  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=550&height=60&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL;Always+Learning+New+Technologies+%F0%9F%92%AA;Turning+Ideas+into+Code+%E2%9C%A8" />
+</p>
 
 ---
 
-## 🛠 Tech Stack  
+## 🌟 About Me  
 
-### Frontend  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
- 
-
-### Backend  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
-
-### Database  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-
-### Tools & Technologies  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)  
+- 🔭 Currently building applications using **Spring Boot, Hibernate JPA, MySQL, and React.js**  
+- 🌱 Learning and mastering **React.js** (advanced concepts) and **Hibernate JPA**  
+- 💡 Strong foundation in **Core Java, J2EE, Servlets, and Database Management**  
+- 🎯 Passionate about solving problems, clean coding, and scalable architectures  
+- ⚡ Fun fact: My debug logs tell more stories than my diary 😅  
 
 ---
 
-## 🌱 Current Learning Journey  
+## 🛠️ Tech Stack  
 
-- 📌 **Mastering:**  Node.js  
-- 🧑‍💻 **Learning:** React.js,TypeScript, Docker, AWS  
-- 🔮 **Next:** GraphQL, Microservices Architecture  
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <br/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+  <br/>
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📚 Current Learning Journey  
+
+- 🚀 **Mastering React.js** – Hooks, Context API, Performance Optimization  
+- 🔄 **Hibernate JPA** – ORM, Relationships, and Advanced Queries  
+- 🌍 Exploring advanced **Spring Boot features** for enterprise-grade apps  
 
 ---
 
 ## 📊 GitHub Analytics  
 
-![Suryanarayana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
-
----
-
-## 🤝 Let’s Connect!  
-
-- 💼 Open to **internship and entry-level opportunities** in **Full Stack Development**.  
-- 💡 Interested in collaborating on **open-source projects**.  
-- 🌍 Always eager to learn from experienced developers.  
-
-📩 **Contact Me:**  
-- ✉️ Email: suryanarayanbabulsahoo@gmail.com 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/suryanarayan-sahoo-26b78a265/)  
-- 🌐 [Portfolio](https://your-portfolio-link.com)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
-⭐ Check out my repositories to see projects I’ve built — from **full-stack apps** to **machine learning projects**. Always excited to learn, collaborate, and grow!  
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="mailto:suryanarayanbabulsahoo@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/suryanarayan-sahoo-26b78a265/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white"></a>
+</p>
+
+---
+
+## ✨ Quote I Believe In  
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i> – John Johnson  
+</p>
+
+---
+
+⭐ Check out my repositories to see projects I’ve built with **Java, Spring Boot, Hibernate, MySQL, and React.js**.  
+Always excited to **collaborate, learn, and grow!** 🚀  
